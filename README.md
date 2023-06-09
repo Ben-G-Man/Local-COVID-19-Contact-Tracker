@@ -12,6 +12,8 @@ By **Benjamin Hume** and **Ethan Corbertt**
 - A settings page allows accounts to be easily modified or deleted once created.
 - There are **five** distinct time-dependent UI themes, which activate automatically to improve viewing comfort.
 
+## Time-Dependent Themes
+
 ![Screenshots of contact tracker at different times of day.](https://github.com/Ben-G-Man/Local-COVID-19-Contact-Tracker/blob/main/images/example_images/themeShowcase2.png)
 
 ## How To Use
