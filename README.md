@@ -11,8 +11,6 @@ By **Benjamin Hume** and **Ethan Corbertt**
 - An administration account can be accessed to retrieve activity associated with a specific user or location.
 - A settings page allows accounts to be easily modified or deleted once created.
 - There are **five** distinct time-dependent UI themes, which activate automatically to improve viewing comfort.
-- 
-![Demonstration of contact tracker colour themes.](https://github.com/Ben-G-Man/Local-COVID-19-Contact-Tracker/blob/main/images/example_images/themeShowcase.png)
 
 ![Screenshots of contact tracker at different times of day.](https://github.com/Ben-G-Man/Local-COVID-19-Contact-Tracker/blob/main/images/example_images/themeShowcase2.png)
 
