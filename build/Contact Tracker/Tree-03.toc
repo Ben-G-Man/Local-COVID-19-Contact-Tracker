@@ -1,0 +1,1464 @@
+('C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan Corbett\\',
+ None,
+ [],
+ 'DATA',
+ [('activity.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\activity.txt',
+   'DATA'),
+  ('Contact Tracker.kv',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan Corbett\\Contact '
+   'Tracker.kv',
+   'DATA'),
+  ('Contact Tracker.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan Corbett\\Contact '
+   'Tracker.py',
+   'DATA'),
+  ('Contact Tracker.spec',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan Corbett\\Contact '
+   'Tracker.spec',
+   'DATA'),
+  ('info.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\info.txt',
+   'DATA'),
+  ('read me.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan Corbett\\read '
+   'me.txt',
+   'DATA'),
+  ('users.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\users.txt',
+   'DATA'),
+  ('__pycache__\\Contact Tracker.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\__pycache__\\Contact Tracker.cpython-39.pyc',
+   'DATA'),
+  ('images\\hide_password.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\hide_password.png',
+   'DATA'),
+  ('images\\unhide_password.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\unhide_password.png',
+   'DATA'),
+  ('images\\night_theme\\app_background.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\night_theme\\app_background.png',
+   'DATA'),
+  ('images\\night_theme\\app_background_rot.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\night_theme\\app_background_rot.png',
+   'DATA'),
+  ('images\\night_theme\\button_background.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\night_theme\\button_background.png',
+   'DATA'),
+  ('images\\night_theme\\logo.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\night_theme\\logo.png',
+   'DATA'),
+  ('images\\morning_theme\\app_background.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\morning_theme\\app_background.png',
+   'DATA'),
+  ('images\\morning_theme\\app_background_rot.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\morning_theme\\app_background_rot.png',
+   'DATA'),
+  ('images\\morning_theme\\button_background.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\morning_theme\\button_background.png',
+   'DATA'),
+  ('images\\morning_theme\\logo.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\morning_theme\\logo.png',
+   'DATA'),
+  ('images\\mid_day_theme\\app_background.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\mid_day_theme\\app_background.png',
+   'DATA'),
+  ('images\\mid_day_theme\\app_background_rot.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\mid_day_theme\\app_background_rot.png',
+   'DATA'),
+  ('images\\mid_day_theme\\button_background.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\mid_day_theme\\button_background.png',
+   'DATA'),
+  ('images\\mid_day_theme\\logo.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\mid_day_theme\\logo.png',
+   'DATA'),
+  ('images\\evening_theme\\app_background.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\evening_theme\\app_background.png',
+   'DATA'),
+  ('images\\evening_theme\\app_background_rot.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\evening_theme\\app_background_rot.png',
+   'DATA'),
+  ('images\\evening_theme\\button_background.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\evening_theme\\button_background.png',
+   'DATA'),
+  ('images\\evening_theme\\logo.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\evening_theme\\logo.png',
+   'DATA'),
+  ('images\\afternoon_theme\\app_background.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\afternoon_theme\\app_background.png',
+   'DATA'),
+  ('images\\afternoon_theme\\app_background_rot.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\afternoon_theme\\app_background_rot.png',
+   'DATA'),
+  ('images\\afternoon_theme\\button_background.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\afternoon_theme\\button_background.png',
+   'DATA'),
+  ('images\\afternoon_theme\\logo.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\images\\afternoon_theme\\logo.png',
+   'DATA'),
+  ('fonts\\IBMPlexSans-Bold.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-Bold.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-BoldItalic.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-BoldItalic.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-ExtraLight.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-ExtraLight.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-ExtraLightItalic.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-ExtraLightItalic.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-Italic.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-Italic.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-Light.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-Light.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-LightItalic.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-LightItalic.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-Medium.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-Medium.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-MediumItalic.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-MediumItalic.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-Regular.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-Regular.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-SemiBold.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-SemiBold.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-SemiBoldItalic.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-SemiBoldItalic.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-Thin.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-Thin.ttf',
+   'DATA'),
+  ('fonts\\IBMPlexSans-ThinItalic.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\fonts\\IBMPlexSans-ThinItalic.ttf',
+   'DATA'),
+  ('dist\\Contact Tracker\\base_library.zip',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\base_library.zip',
+   'DATA'),
+  ('dist\\Contact Tracker\\Contact Tracker.exe',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\Contact Tracker.exe',
+   'DATA'),
+  ('dist\\Contact Tracker\\Contact Tracker.exe.manifest',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\Contact Tracker.exe.manifest',
+   'DATA'),
+  ('dist\\Contact Tracker\\ffi-7.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\ffi-7.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\glew32.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\glew32.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\glib-2.0-0.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\glib-2.0-0.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\gmodule-2.0-0.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\gmodule-2.0-0.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\gobject-2.0-0.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\gobject-2.0-0.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\gstreamer-1.0-0.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\gstreamer-1.0-0.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\intl-8.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\intl-8.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\libcrypto-1_1.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\libcrypto-1_1.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\libffi-7.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\libffi-7.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\libfreetype-6.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\libfreetype-6.dll',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\libopenblas.GK7GX5KEQ4F6UYO3P26ULGBQYHGQO7J4.gfortran-win_amd64.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\libopenblas.GK7GX5KEQ4F6UYO3P26ULGBQYHGQO7J4.gfortran-win_amd64.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\libssl-1_1.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\libssl-1_1.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\mfc140u.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\mfc140u.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\pyexpat.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pyexpat.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\python39.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\python39.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\pythoncom39.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pythoncom39.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\pywintypes39.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pywintypes39.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\SDL2.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\SDL2.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\SDL2_image.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\SDL2_image.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\SDL2_mixer.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\SDL2_mixer.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\SDL2_ttf.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\SDL2_ttf.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\select.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\select.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\unicodedata.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\unicodedata.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\VCRUNTIME140.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\win32api.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\win32api.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\win32file.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\win32file.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\win32gui.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\win32gui.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\win32pdh.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\win32pdh.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\win32trace.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\win32trace.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\win32ui.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\win32ui.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\zlib1.dll',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\zlib1.dll',
+   'DATA'),
+  ('dist\\Contact Tracker\\_asyncio.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_bz2.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_bz2.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_ctypes.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_ctypes.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_decimal.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_decimal.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_elementtree.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_elementtree.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_hashlib.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_hashlib.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_lzma.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_lzma.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_multiprocessing.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_multiprocessing.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_overlapped.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_queue.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_queue.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_socket.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_socket.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_ssl.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_ssl.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_uuid.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_uuid.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\_win32sysloader.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\_win32sysloader.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\win32com\\shell\\shell.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\win32com\\shell\\shell.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\annotated_types.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\pydantic\\annotated_types.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\class_validators.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\pydantic\\class_validators.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\color.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\color.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\dataclasses.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\dataclasses.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\datetime_parse.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\pydantic\\datetime_parse.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\decorator.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\decorator.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\env_settings.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\env_settings.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\errors.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\errors.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\error_wrappers.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\pydantic\\error_wrappers.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\fields.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\fields.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\json.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\json.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\main.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\main.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\mypy.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\mypy.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\networks.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\networks.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\parse.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\parse.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\schema.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\schema.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\tools.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\tools.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\types.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\types.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\typing.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\typing.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\utils.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\utils.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\validators.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\validators.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\version.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\version.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\_hypothesis_plugin.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\pydantic\\_hypothesis_plugin.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\pydantic\\__init__.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\pydantic\\__init__.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\random\\bit_generator.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\numpy\\random\\bit_generator.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\random\\mtrand.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\numpy\\random\\mtrand.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\random\\_bounded_integers.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\numpy\\random\\_bounded_integers.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\random\\_common.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\numpy\\random\\_common.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\random\\_generator.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\numpy\\random\\_generator.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\random\\_mt19937.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\numpy\\random\\_mt19937.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\random\\_pcg64.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\numpy\\random\\_pcg64.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\random\\_philox.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\numpy\\random\\_philox.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\random\\_sfc64.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\numpy\\random\\_sfc64.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\linalg\\lapack_lite.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\numpy\\linalg\\lapack_lite.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\linalg\\_umath_linalg.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\numpy\\linalg\\_umath_linalg.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\fft\\_pocketfft_internal.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\numpy\\fft\\_pocketfft_internal.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\core\\_multiarray_tests.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\numpy\\core\\_multiarray_tests.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\numpy\\core\\_multiarray_umath.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\numpy\\core\\_multiarray_umath.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\console.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\console.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\cursor.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\cursor.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\inspector.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\inspector.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\joycursor.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\joycursor.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\keybinding.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\keybinding.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\monitor.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\monitor.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\recorder.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\recorder.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\screen.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\screen.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\showborder.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\showborder.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\touchring.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\touchring.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\webdebugger.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\webdebugger.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\_webdebugger.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\_webdebugger.py',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\modules\\__init__.py',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\modules\\__init__.py',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\console.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\console.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\settings_kivy.json',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\settings_kivy.json',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\style.kv',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\style.kv',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\keyboards\\azerty.json',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\keyboards\\de.json',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\keyboards\\de.json',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\keyboards\\de_CH.json',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\keyboards\\en_US.json',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\keyboards\\qwerty.json',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\keyboards\\qwertz.json',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\images\\background.jpg',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\images\\background.jpg',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\images\\cursor.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\images\\cursor.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\images\\defaultshape.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\images\\image-loading.gif',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\images\\image-loading.zip',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\images\\testpattern.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\images\\testpattern.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\glsl\\default.fs',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\glsl\\default.fs',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\glsl\\default.png',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\glsl\\default.png',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\glsl\\default.vs',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\glsl\\default.vs',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\glsl\\header.fs',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\glsl\\header.fs',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\glsl\\header.vs',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\glsl\\header.vs',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\properties.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\properties.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\weakproxy.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\weakproxy.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\_clock.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\_clock.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\_event.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\_event.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\lib\\gstplayer\\_gstplayer.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\lib\\gstplayer\\_gstplayer.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\pep_html\\pep.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\pep_html\\template.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\odf_odt\\styles.odt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\latex2e\\default.tex',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\latex2e\\docutils.sty',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\docutils\\writers\\latex2e\\docutils.sty',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\latex2e\\titlepage.tex',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\latex2e\\xelatex.tex',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\html5_polyglot\\math.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\html5_polyglot\\plain.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\html5_polyglot\\template.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\html4css1\\html4css1.css',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\writers\\html4css1\\template.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\README.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact '
+   'Tracker\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('dist\\Contact Tracker\\certifi\\cacert.pem',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\dist\\Contact Tracker\\certifi\\cacert.pem',
+   'DATA'),
+  ('build\\Contact Tracker\\Analysis-00.toc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\Analysis-00.toc',
+   'DATA'),
+  ('build\\Contact Tracker\\base_library.zip',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\base_library.zip',
+   'DATA'),
+  ('build\\Contact Tracker\\COLLECT-00.toc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\COLLECT-00.toc',
+   'DATA'),
+  ('build\\Contact Tracker\\Contact Tracker.exe',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\Contact Tracker.exe',
+   'DATA'),
+  ('build\\Contact Tracker\\Contact Tracker.exe.manifest',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\Contact Tracker.exe.manifest',
+   'DATA'),
+  ('build\\Contact Tracker\\EXE-00.toc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\EXE-00.toc',
+   'DATA'),
+  ('build\\Contact Tracker\\PKG-00.pkg',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\PKG-00.pkg',
+   'DATA'),
+  ('build\\Contact Tracker\\PKG-00.toc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\PKG-00.toc',
+   'DATA'),
+  ('build\\Contact Tracker\\PYZ-00.pyz',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\PYZ-00.pyz',
+   'DATA'),
+  ('build\\Contact Tracker\\PYZ-00.toc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\PYZ-00.toc',
+   'DATA'),
+  ('build\\Contact Tracker\\Tree-00.toc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\Tree-00.toc',
+   'DATA'),
+  ('build\\Contact Tracker\\Tree-01.toc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\Tree-01.toc',
+   'DATA'),
+  ('build\\Contact Tracker\\Tree-02.toc',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\Tree-02.toc',
+   'DATA'),
+  ('build\\Contact Tracker\\warn-Contact Tracker.txt',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\warn-Contact Tracker.txt',
+   'DATA'),
+  ('build\\Contact Tracker\\xref-Contact Tracker.html',
+   'C:\\Users\\radio\\Contact Tracker - by Ben Hume and Ethan '
+   'Corbett\\build\\Contact Tracker\\xref-Contact Tracker.html',
+   'DATA')])

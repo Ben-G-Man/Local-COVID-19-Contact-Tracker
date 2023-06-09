@@ -1,0 +1,617 @@
+WindowManager:
+    LandingScreen:
+    RegistrationScreen:
+    UserDashboard:
+    LookupScreen:
+
+<LandingScreen>:
+
+    name: "LandingScreen"
+
+    email:email
+    password:password
+    hidePasswordButton:hidePasswordButton
+
+    FloatLayout:
+
+        size: root.width, root.height
+
+        Image:
+            source: 'images/' + root.manager.timeFileVar + '/app_background.png'
+            allow_stretch: True
+            keep_ratio: False
+            size: root.width, root.height
+
+        Image:
+            source: 'images/' + root.manager.timeFileVar + '/logo.png'
+            allow_stretch: True
+            keep_ratio: True
+            size_hint_y: 0.2
+            pos_hint: {"x": 0.05, "top": 0.77}
+
+        Label:
+            size_hint: 0.4, 0.85
+            pos_hint: {"x":0.0, "top":0.85}
+            color: [0, 0, 0, 1]
+            canvas.before:
+                Color:
+                    rgba: root.manager.timeThemeAltColour
+                Rectangle:
+                    size: self.size
+                    pos: self.pos
+
+
+        TextInput:
+            id: email
+            text: root.emailDefault
+            hint_text: "Email"
+            multiline: False
+            pos_hint: {"x":0.05, "top":0.76}
+            padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+            background_color: 0, 0, 0, 0
+            font_size: 40
+            size_hint: 0.3, 0.15
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+            canvas.before:
+                Color:
+                    rgba: 0, 0, 0, 1
+                Line:
+                    width: 2
+                    rectangle: self.x, self.y, self.width, self.height
+
+
+        TextInput:
+            id: password
+            text: root.passwordDefault
+            hint_text: "Password"
+            multiline: False
+            pos_hint: {"x":0.05, "top":0.58}
+            allow_copy: False
+            password: True
+
+            padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+            background_color: 0,0,0,0
+            font_size: 40
+            size_hint: 0.3, 0.15
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+            canvas.before:
+                Color:
+                    rgba: 0, 0, 0, 1
+                Line:
+                    width: 2
+                    rectangle: self.x, self.y, self.width, self.height
+
+        Button:
+            id: hidePasswordButton
+            pos_hint: {"x":0.285, "top":0.555}
+            on_press:root.unhidePassword(self)
+            size_hint: 0.05, 0.1
+            background_normal: 'images/unhide_password.png'
+            background_down: 'images/unhide_password.png'
+
+        Button:
+            background_normal: 'images/' + root.manager.timeFileVar + '/button_background.png'
+            background_down: 'images/' + root.manager.timeFileVar + '/button_background.png'
+            text: "LOG IN"
+            pos_hint: {"x":0.05, "top":0.40}
+            on_press:
+                root.manager.transition.direction = 'left'
+                root.login_submit(self)
+            color: root.manager.timeThemeColour
+            font_size: 40
+            size_hint: 0.3, 0.15
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+
+        Label:
+            size_hint: 0.3, 0.15
+            pos_hint: {"x":0.05, "top":0.22}
+            text:"Don't have an account yet?"
+            font_size: 30
+            color: [0, 0, 0, 1]
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+
+        Button:
+            font_name: 'fonts/IBMPlexSans-SemiBold.ttf'
+            pos_hint: {"x":0.05, "top":0.22}
+            text:"\n\nREGISTER ONE HERE"
+            background_normal: ''
+            background_color: 1, 1, 1, 0
+            color: 0, 0, 0, 1
+            font_size: 30
+            size_hint: 0.3, 0.15
+            on_press: 
+                root.manager.transition.direction = 'down'
+                root.manager.current = 'RegistrationScreen'
+
+        Label:
+            text_size: self.size
+            halign: 'left'
+            valign: 'top'
+            font_size: 60
+            text:'UPDATES'
+            size_hint: 0.4, 0.6
+            pos_hint: {"x": 0.55, "top": 0.7}
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+            color: root.manager.timeThemeColour
+
+        Label:
+            id: apiInfo
+            text_size: self.size
+            halign: 'left'
+            valign: 'top'
+            text: root.apiInfo
+            size_hint: 0.4, 0.6
+            pos_hint: {"x": 0.55, "top": 0.7}
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+            font_size: 30
+            color: root.manager.timeThemeColour
+
+
+<RegistrationScreen>:
+
+    name:"RegistrationScreen"
+
+    email:email
+    password:password
+    phoneNumber:phoneNumber
+    fullName:fullName
+    address:address
+    registrationButton:registrationButton
+
+    FloatLayout:
+
+        Image:
+            source: 'images/' + root.manager.timeFileVar + '/app_background_rot.png'
+            allow_stretch: True
+            keep_ratio: False
+            size: root.width, root.height
+
+        TextInput:
+            id: email
+            hint_text: "Email"
+            multiline: False
+            pos_hint: {"x":0.25, "top":0.95}
+            
+            padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+            font_size: 40
+            size_hint: 0.5, 0.10
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+
+        TextInput:
+            id: password
+            hint_text: "Password"
+            multiline: False
+            pos_hint: {"x":0.25, "top":0.8}
+            
+            padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+            font_size: 40
+            size_hint: 0.5, 0.10
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+
+        TextInput:
+            id: phoneNumber
+            hint_text: "Phone Number"
+            multiline: False
+            pos_hint: {"x":0.25, "top":0.65}
+            
+            padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+            font_size: 40
+            size_hint: 0.5, 0.10
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+
+        TextInput:
+            id: fullName
+            hint_text: "Full Name"
+            multiline: False
+            pos_hint: {"x":0.25, "top":0.5}
+            
+            padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+            font_size: 40
+            size_hint: 0.5, 0.10
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+
+        TextInput:
+            id: address
+            hint_text: "Address"
+            multiline: False
+            pos_hint: {"x":0.25, "top":0.35}
+            
+            padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+            font_size: 40
+            size_hint: 0.5, 0.10
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+
+        Button:
+            id: registrationButton
+            background_normal: ''
+            background_down: ''
+            text: "REGISTER"
+            color: 0, 0, 0, 1
+            pos_hint: {"x":0.25, "top":0.20}
+            on_press:
+                root.manager.transition.direction = 'up'
+                root.register(self)
+            font_size: 40
+            size_hint: 0.5, 0.10
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+            background_color: 0, 0, 0, 0
+            canvas.before:
+                Color:
+                    rgba: 0, 0, 0, 1
+                Line:
+                    width: 2
+                    rectangle: self.x, self.y, self.width, self.height
+
+        Button:
+            background_normal: ''
+            background_down: ''
+            text: "BACK"
+            color: 0, 0, 0, 1
+            pos_hint: {"x":0.025, "top":0.20}
+            on_press:
+                root.manager.transition.direction = 'up'
+                root.back(self)
+            font_size: 40
+            size_hint: 0.20, 0.10
+            font_name: 'fonts/IBMPlexSans-SemiBold.ttf'
+            background_color: 0, 0, 0, 0
+
+<invalidRegNamePopup>:
+    Label:
+        text: "Please enter a valid full name \nand email into the \nfullname and email boxes."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+<invalidPhoneNumberPopup>:
+    Label:
+        text: "Please enter a valid phone number."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+<invalidPasswordPopup>:
+    Label:
+        text: "Please enter a valid password."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+<invalidAddressPopup>:
+    Label:
+        text: "Please enter a valid address."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+
+<UserDashboard>:
+
+    name: "UserDashboard"
+
+    userWelcomeA:userWelcomeA
+    userWelcomeB:userWelcomeB
+    userActivity:userActivity
+    location:location
+    time:time
+    date:date
+
+    FloatLayout:
+        
+        Image:
+            source: 'images/' + root.manager.timeFileVar + '/app_background.png'
+            allow_stretch: True
+            keep_ratio: False
+            size: root.width, root.height
+
+        Label:
+            size_hint: 0.68, 0.92
+            pos_hint: {"x": 0.3, "top": 0.96}
+            color: [0, 0, 0, 1]
+            canvas.before:
+                Color:
+                    rgba: root.manager.timeThemeAltColour
+                Rectangle:
+                    size: self.size
+                    pos: self.pos
+
+        Label:
+            id: userWelcomeA
+            text_size: self.size
+            padding_x: 0
+            halign: 'left'
+            valign: 'top'
+            font_size: 60
+            text:"HELLO"
+            pos_hint: {"x": 0.04, "top": 0.96}
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+            color: root.manager.timeThemeColour
+
+        Label:
+            id: userWelcomeB
+            text_size: self.size
+            padding_x: 0
+            halign: 'left'
+            valign: 'top'
+            font_size: 60
+            text:"\nUSER"
+            pos_hint: {"x": 0.04, "top": 0.96}
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+            color: root.manager.timeThemeColour
+
+        Label:
+            size_hint: 0.22, 0.005
+            pos_hint: {"x": 0.04, "top": 0.72}
+            canvas.before:
+                Color:
+                    rgba: root.manager.timeThemeColour
+                Rectangle:
+                    size: self.size
+                    pos: self.pos
+
+        Label:
+            text_size: self.size
+            halign: 'center'
+            valign: 'middle'
+            text: "- YOUR ACTIVITY -"
+            pos_hint: {"x": 0.04, "top": 0.68}
+            size_hint: 0.22, 0.1
+            font_name: 'fonts/IBMPlexSans-SemiBold.ttf'
+            font_size: 30
+            color: root.manager.timeThemeColour
+
+        Label:
+            id: userActivity
+            text_size: self.size
+            halign: 'center'
+            valign: 'top'
+            text: ""
+            pos_hint: {"x": 0.04, "top": 0.56}
+            size_hint: 0.22, 0.56
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+            font_size: 30
+            color: root.manager.timeThemeColour
+
+        TextInput:
+            id: location
+            hint_text: "Location"
+            multiline: False
+            size_hint: 0.60, 0.15
+            pos_hint: {"x": 0.34, "top": 0.896}
+            
+            padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+            background_color: 0, 0, 0, 0
+            font_size: 40
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+            canvas.before:
+                Color:
+                    rgba: 0, 0, 0, 1
+                Line:
+                    width: 2
+                    rectangle: self.x, self.y, self.width, self.height
+
+        TextInput:
+            id: time
+            hint_text: "Time"
+            multiline: False
+            size_hint: 0.28, 0.15
+            pos_hint: {"x": 0.34, "top": 0.682}
+            
+            padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+            background_color: 0, 0, 0, 0
+            font_size: 40
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+            canvas.before:
+                Color:
+                    rgba: 0, 0, 0, 1
+                Line:
+                    width: 2
+                    rectangle: self.x, self.y, self.width, self.height
+
+        TextInput:
+            id: date
+            hint_text: "Date"
+            multiline: False
+            size_hint: 0.28, 0.15
+            pos_hint: {"x": 0.66, "top": 0.682}
+            
+            padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+            background_color: 0, 0, 0, 0
+            font_size: 40
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+            canvas.before:
+                Color:
+                    rgba: 0, 0, 0, 1
+                Line:
+                    width: 2
+                    rectangle: self.x, self.y, self.width, self.height
+
+        Button:
+            id: enter
+            on_press: root.submit(self)
+            text: "RECORD ENTRY"
+            size_hint: 0.60, 0.15
+            pos_hint: {"x": 0.34, "top": 0.468}
+            background_normal: 'images/' + root.manager.timeFileVar + '/button_background.png'
+            background_down: 'images/' + root.manager.timeFileVar + '/button_background.png'
+            color: root.manager.timeThemeColour
+            font_size: 40
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+            canvas.before:
+                Color:
+                    rgba: 0, 0, 0, 1
+                Rectangle:
+                    size: self.size
+                    pos: self.pos
+
+        Button:
+            id: logOut
+            on_press: 
+                root.manager.transition.direction = 'right'
+                root.logOut(self)
+            text: "LOG OUT"
+            size_hint: 0.28, 0.15
+            pos_hint: {"x": 0.34, "top": 0.254}
+            background_normal: 'images/' + root.manager.timeFileVar + '/button_background.png'
+            background_down: 'images/' + root.manager.timeFileVar + '/button_background.png'
+            color: root.manager.timeThemeColour
+            font_size: 40
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+
+        Button:
+            id: account
+            on_press:
+                root.manager.transition.direction = 'down'
+                root.accountSettings(self)
+            text: "ACCOUNT"
+            size_hint: 0.28, 0.15
+            pos_hint: {"x": 0.66, "top": 0.254}
+            background_normal: 'images/' + root.manager.timeFileVar + '/button_background.png'
+            background_down: 'images/' + root.manager.timeFileVar + '/button_background.png'
+            color: root.manager.timeThemeColour
+            font_size: 40
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+
+            
+<LookupScreen>:
+
+    name: "LookupScreen"
+
+    email:email
+    inquiryActivity:inquiryActivity
+
+    FloatLayout:
+    
+        size: root.width, root.height
+
+        Image:
+            source: 'images/' + root.manager.timeFileVar + '/app_background.png'
+            allow_stretch: True
+            keep_ratio: False
+            size: root.width, root.height
+
+        TextInput:
+            id: email
+            hint_text: "Inquiry Email"
+            multiline: False
+            pos_hint: {"x": 0.02, "top": 0.95}
+            padding_x: 20
+            padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+            font_size: 40
+            size_hint: 0.96, 0.10
+            font_name: 'fonts/IBMPlexSans-Light.ttf'
+
+        Button:
+            background_normal: ''
+            background_down: ''
+            text: "ENTER INQUIRY"
+            color: [0, 0, 0, 1]
+            pos_hint: {"x": 0.02, "top": 0.80}
+            on_press:root.searchSubmit(self)
+            font_size: 40
+            size_hint: 0.96, 0.10
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+
+        Button:
+            background_normal: ''
+            background_down: ''
+            text: "BACK"
+            color: [0, 0, 0, 1]
+            pos_hint: {"x": 0.02, "top": 0.15}
+            on_press:
+                root.manager.transition.direction = 'right'
+                root.manager.current = 'LandingScreen'
+            font_size: 40
+            size_hint: 0.2, 0.10
+            font_name: 'fonts/IBMPlexSans-Regular.ttf'
+
+        Label:
+            id: inquiryActivity
+            size_hint: 0.96, 0.4
+            pos_hint: {"x": 0.02, "top": 0.65}
+            color: [0, 0, 0, 1]
+            text: "Inquired activity will be displayed here."
+            canvas.before:
+                Color:
+                    rgba: [1, 1, 1, 1]
+                Rectangle:
+                    size: self.size
+                    pos: self.pos
+            
+
+
+<invalidUsernamePopup>:
+    Label:
+        text: "Please enter a valid Email \nand password into the \nEmail and password boxes."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+<accountNotValidPopup>:
+    Label:
+        text: "The Email you entered does not \nmatch a registered user in our database.\n\nplease ensure the Email is \nspelled correctly or register a user \nvia the link below."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+<wrongPasswordPopup>:
+    Label:
+        text: "Password incorrect! \n\nPlease ensure that your \npassword is spelled correctly."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+<noEntryPopup>:
+    Label:
+        text: "One or more of the entry\ntext boxes are empty!\n\n Please enter a valid \n24 hour time, DD/MM/YY\n date and location."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+<invalidTimePopup>:
+    Label:
+        text: "The time you have entered is invalid. \n\nPlease enter a valid time in the \n24 hour format (E.g. 7:30am = 1930)."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+<invalidDatePopup>:
+    Label:
+        text: "The date you have entered is invalid. \n\nPlease enter a valid date in the \nDD/MM/YY format (E.g. 24th June\n 2003 = 24/06/2003)."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+<invalidLookupPopup>:
+    Label:
+        text: "Please enter a valid email address \ninto the inquiry box."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+<UnmatchedEmailPopup>:
+    Label:
+        text: "The email you have entered does not\nmatch any registered users.\n\nEnsure the email spelled correctly \nand try again."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
+
+<NoRecordedActivityPopup>:
+    Label:
+        text: "This user has no recorded activities."
+        size_hint: 0.6, 0.2
+        pos_hint: {"x":0.2, "top":0.7}
+        color:[1, 1, 1, 1]
+        font_size: 30
