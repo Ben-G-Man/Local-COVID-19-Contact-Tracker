@@ -1,7 +1,7 @@
 # Local-COVID-19-Contact-Tracker
 By **Benjamin Hume** and **Ethan Corbertt**
 
-**NOTE**: This app was built to be submitted as a Highschool assignment when I was 17, the quality of my code has improved dramatically since then.
+**NOTE**: This app was built to be submitted as a Highschool assignment when I was 17, the quality of my code and my ability to write comments has improved dramatically since then.
 
 ## Features
 
